@@ -6,7 +6,7 @@ Pregel在编程模型上遵循以图节点为中心的模式，在超级步S中�
 
 
 典型的Pregel计算由图信息输入、图初始化操作，以及由全局同步点分割开的连续运行的超级步组成，最后可将计算结果进行输出。
-![pregel](images/pregel.png test)
+![pregel](images/pregel.png "test")
 
 
 
